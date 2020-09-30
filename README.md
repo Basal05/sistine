@@ -6,7 +6,7 @@ We turned a MacBook into a touchscreen using only $1 of hardware and a little bi
 
 ## Basic Principle
 
-The basic principle behind Sistine is simple. Surfaces viewed from an angle tend to look shiny, and you can tell if a finger is touching the surface by checking if it’s touching its own reflection.
+The basic principle behind Sistine is simple. Surfaces viewed from an angle tend to look shiny, and you can tell if a finger is touching the surface by checking if it’s touching its own reflection.This is Simply amazing.
 
 ![Hover versus touch](https://www.anishathalye.com/media/2018/04/03/explanation.png)
 
